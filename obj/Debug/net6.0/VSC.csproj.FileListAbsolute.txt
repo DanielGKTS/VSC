@@ -1,0 +1,30 @@
+C:\VSC\bin\Debug\net6.0\VSC.exe
+C:\VSC\bin\Debug\net6.0\VSC.deps.json
+C:\VSC\bin\Debug\net6.0\VSC.runtimeconfig.json
+C:\VSC\bin\Debug\net6.0\VSC.dll
+C:\VSC\bin\Debug\net6.0\ref\VSC.dll
+C:\VSC\bin\Debug\net6.0\VSC.pdb
+C:\VSC\obj\Debug\net6.0\VSC.csproj.AssemblyReference.cache
+C:\VSC\obj\Debug\net6.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\obj\Debug\net6.0\VSC.AssemblyInfoInputs.cache
+C:\VSC\obj\Debug\net6.0\VSC.AssemblyInfo.cs
+C:\VSC\obj\Debug\net6.0\VSC.csproj.CoreCompileInputs.cache
+C:\VSC\obj\Debug\net6.0\VSC.dll
+C:\VSC\obj\Debug\net6.0\ref\VSC.dll
+C:\VSC\obj\Debug\net6.0\VSC.pdb
+C:\VSC\obj\Debug\net6.0\VSC.genruntimeconfig.cache
+C:\Users\Daniel Kim\VSC\bin\Debug\net6.0\VSC.exe
+C:\Users\Daniel Kim\VSC\bin\Debug\net6.0\VSC.deps.json
+C:\Users\Daniel Kim\VSC\bin\Debug\net6.0\VSC.runtimeconfig.json
+C:\Users\Daniel Kim\VSC\bin\Debug\net6.0\VSC.dll
+C:\Users\Daniel Kim\VSC\bin\Debug\net6.0\ref\VSC.dll
+C:\Users\Daniel Kim\VSC\bin\Debug\net6.0\VSC.pdb
+C:\Users\Daniel Kim\VSC\obj\Debug\net6.0\VSC.csproj.AssemblyReference.cache
+C:\Users\Daniel Kim\VSC\obj\Debug\net6.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Kim\VSC\obj\Debug\net6.0\VSC.AssemblyInfoInputs.cache
+C:\Users\Daniel Kim\VSC\obj\Debug\net6.0\VSC.AssemblyInfo.cs
+C:\Users\Daniel Kim\VSC\obj\Debug\net6.0\VSC.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Kim\VSC\obj\Debug\net6.0\VSC.dll
+C:\Users\Daniel Kim\VSC\obj\Debug\net6.0\ref\VSC.dll
+C:\Users\Daniel Kim\VSC\obj\Debug\net6.0\VSC.pdb
+C:\Users\Daniel Kim\VSC\obj\Debug\net6.0\VSC.genruntimeconfig.cache
